@@ -1,0 +1,8 @@
+Updated features:
+- Top-right language translator added.
+- Telugu is the default/original language.
+- Clicking English/Hindi/Kannada/Tamil/Malayalam/Marathi/Bengali translates the full webpage using Google Translate.
+- Refreshing the webpage clears translation cookies before render, so the page opens back in Telugu.
+- Smooth fade effect while translation is applied.
+
+Important: Google Translate needs internet access and may not work correctly from local file:// preview. Test after deploying to Netlify or using a local server.
